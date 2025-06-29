@@ -1,6 +1,6 @@
 # Reference: https://benanderson.work/blog/agentic-search-for-dummies/
 
-from fastmcp import FastMCP
+from mcp.server.fastmcp import FastMCP
 from pydantic import BaseModel
 import argparse
 from urllib.parse import urlparse, quote_plus

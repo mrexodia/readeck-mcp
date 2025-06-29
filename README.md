@@ -4,7 +4,7 @@
 For testing:
 
 ```
-uv run --env-file=.env fastmcp dev main.py
+uv run --env-file=.env mcp dev readeck-mcp.py
 ```
 
 Configuration JSON:
